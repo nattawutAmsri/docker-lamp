@@ -17,4 +17,7 @@ Directory guid
 * data -> store your db data
 * logs -> allow your server with logs and easy to get log from you host
 * www -> store your php application
+
+Your can access your web server via http://localhost
+Your can access your phpmyadmin via http://localhost:8080
  
