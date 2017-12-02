@@ -6,6 +6,7 @@ Run your LAMP with docker-compose
 Docker basic command
 * docker-compose up -> to run your docker container from docker-compose.yml
 * docker-compose down -> to stop  your container 
+* docker-compose build -> to build you docker-compose.yml
 * docker ps -> to view your all container is running
 * docker images -> to view your all image is available
 * docker inspect [container ID] -> to check your container information
@@ -16,4 +17,4 @@ Directory guid
 * data -> store your db data
 * logs -> allow your server with logs and easy to get log from you host
 * www -> store your php application
-
+ 
