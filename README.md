@@ -11,7 +11,7 @@ Docker basic command
 * docker images -> to view your all image is available
 * docker inspect [container ID] -> to check your container information
 
-Directory guid
+Directory guide
 * bin -> store you webserver and mysql install command using Dockerfile
 * confif -> store you php and host config
 * data -> store your db data
